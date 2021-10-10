@@ -20,3 +20,9 @@ Sample 200 response
     "Transport": 143.2875,
     "Liability": 138.5875
 }
+
+*** Run the solution ****
+Open the solution ion VS2019/VSCode and select the Galytix profile and run this will run the solution on 9091 port which is configured
+in program.cs
+
+Or you can build the solution using ***dotnet build*** and then ***dotnet .\bin\debug\netcoreapp3.1\Galytix.dll***

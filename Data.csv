@@ -1,0 +1,17 @@
+Country,Year,GWP,LOB
+India,2008,140,Transport
+India,2009,150,Transport
+India,2010,141.5,Transport
+India,2011,123.8,Transport
+India,2012,140,Transport
+India,2013,140.4,Transport
+India,2014,160,Transport
+India,2015,150.6,Transport
+India,2008,140,Liability
+India,2009,141.4,Liability
+India,2010,130,Liability
+India,2011,121,Liability
+India,2012,116.6,Liability
+India,2013,150.7,Liability
+India,2014,109,Liability
+India,2015,200,Liability
